@@ -27,12 +27,7 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
     </div>
 </div>
 <br />
-<div>
-    <h2>Feel free to clone this project</h2>
-    <div>
-        git clone https://github.com/iqbalsafian/MyERP.git
-    </div>
-    <br />
+
     <div>For server:</div>
     <div>
         <ul style="list-style-type: none">
